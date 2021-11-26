@@ -8,8 +8,8 @@ We are trying in this python script to solve the problem of black and white shee
 
 
 <h1>Solution</h1>
-This is my algorithm description :
-L is the list of sheeps. Example L = ['B', 'B', 'B', 'B', 'S', 'W', 'W', 'W'].
+L is the list of sheeps. Example L = ['B', 'B', 'B', 'B', 'S', 'W', 'W', 'W'].<br>
+
 "W"="White", "B"="Black", "S"="Empty Space", "C"="Color 'W' or 'B'", "Not_C"="the other color"
 
 - Start by moving the white sheep "W" 
