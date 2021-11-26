@@ -19,7 +19,7 @@ Example :
 ```shell
 $python sheep_problem.py --nb_B 4 --nb_W 3
 ```
-<img src="example.png">
+<img src="Example_B=4_W=3.png">
 
 
 <h1>Contact:</h1>
