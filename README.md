@@ -19,3 +19,12 @@ Example :
 ```shell
 $python sheep_problem.py --nb_B 4 --nb_W 3
 ```
+<img src="example.png">
+
+
+<hr>
+✉️ **Contact** : 
+
+email : ghassene.tanabene@gmail.com
+
+linkedin : https://www.linkedin.com/in/ghassene-tanabene/
