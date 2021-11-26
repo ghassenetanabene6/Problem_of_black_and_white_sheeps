@@ -14,14 +14,16 @@ L is the list of sheeps. Example L = ['B', 'B', 'B', 'B', 'S', 'W', 'W', 'W'].<b
 
 - Start by moving the white sheep "W" 
 
-Repeat :
+Repeat :<br>
 
-* If the index of the empty space in the list of sheeps is in {0,1,len(L)-1,len(L)-2} : 
-  We have L = [S,...] or  [C,S,...] or [...,S,C] or [...,S]
-  In this case, we treated all the possibilities separately following the same rules below.
-* Else => We have 2 <= space_index <= len(List_of_sheeps)-2
+* If the index of the empty space in the list of sheeps is in {0,1,len(L)-1,len(L)-2} : <br>
+
+  We have L = [S,...] or  [C,S,...] or [...,S,C] or [...,S]. In this case, we treated all the possibilities separately following the same rules below. <br>
+  
+* Else => We have 2 <= space_index <= len(List_of_sheeps)-2 <br>
+
 - If ("C","S","C") => Jump "Not_C" if it is possible else move "C" 
-- Else => We have ("C","S","Not_C") : move the sheep having the color same to the color in the memory (last operation) if it is possible
+- Else => We have ("C","S","Not_C") : move the sheep having the color same to the color in the memory (last operation) if it is possible. <br>
   
 Until having the desired result ['W', 'W', 'W','S','B', 'B', 'B', 'B'].
 
