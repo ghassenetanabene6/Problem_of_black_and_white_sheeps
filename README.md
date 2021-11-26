@@ -20,7 +20,7 @@ Repeat :<br>
 
   We have L = [S,...] or  [C,S,...] or [...,S,C] or [...,S]. In this case, we treated all the possibilities separately following the same rules below. <br>
   
-* Else => We have 2 <= space_index <= len(List_of_sheeps)-2 <br>
+* Else : We have 2 <= space_index <= len(List_of_sheeps)-2 <br>
 
 - If ("C","S","C") => Jump "Not_C" if it is possible else move "C" 
 - Else => We have ("C","S","Not_C") : move the sheep having the color same to the color in the memory (last operation) if it is possible. <br>
