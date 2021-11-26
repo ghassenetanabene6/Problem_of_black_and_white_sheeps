@@ -5,3 +5,17 @@ We are trying in this python script to solve the problem of black and white shee
 <br>
 
 <img src="problem details.png">
+
+<h1>Usage:</h1>
+<br>
+
+```shell
+$python sheep_problem.py --nb_B number_of_black_sheeps --nb_W number_of_white_sheep
+```
+
+Example : 
+
+
+```shell
+$python sheep_problem.py --nb_B 4 --nb_W 3
+```
