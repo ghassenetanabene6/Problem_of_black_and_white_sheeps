@@ -22,8 +22,7 @@ $python sheep_problem.py --nb_B 4 --nb_W 3
 <img src="example.png">
 
 
-<hr>
-✉️ **Contact** : 
+<h1>Contact:</h1>
 
 email : ghassene.tanabene@gmail.com
 
