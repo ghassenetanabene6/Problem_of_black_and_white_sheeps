@@ -10,7 +10,9 @@ We are trying in this python script to solve the problem of black and white shee
 <h1>Solution</h1>
 L is the list of sheeps. Example L = ['B', 'B', 'B', 'B', 'S', 'W', 'W', 'W'].<br>
 
-"W"="White", "B"="Black", "S"="Empty Space", "C"="Color 'W' or 'B'", "Not_C"="the other color"
+"W"="White", "B"="Black", "S"="Empty Space", "C"="Color 'W' or 'B'", "Not_C"="the other color".<br>
+
+These are the different steps of our algorithm :
 
 ```shell
 Begin 
